@@ -65,7 +65,13 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> CheckedListBox </td>
-    <td> ckl </td>
+    <td> ckl / clb </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> ColorDialog </td>
+    <td> cld </td>
     <td> </td>
 </tr>
 <tr>
@@ -94,8 +100,14 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
+    <td> ContextMenu </td>
+    <td> cmnv </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
     <td> CrystalReportViewer </td>
-    <td> rptvew </td>
+    <td> rptvew / rpt </td>
     <td> </td>
 </tr> 
 <tr>
@@ -107,7 +119,7 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> DataGrid </td>
-    <td> dg </td>
+    <td> dg / grd </td>
     <td> </td>
 </tr>
 <tr>
@@ -124,8 +136,14 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
+    <td> DateTimePicker </td>
+    <td> dtp </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
     <td> DomainUpDown </td>
-    <td> dud </td>
+    <td> dud / upd </td>
     <td> </td>
 </tr>
 <tr>
@@ -141,6 +159,12 @@ If you are new, like me, in this brave new world, so welcome!
     <td> </td>
 </tr>
 <tr>
+    <td> </td>
+    <td> ErrorProvider </td>
+    <td> err </td>
+    <td> </td>
+</tr>
+<tr>
     <td> F </td>
     <td> </td>
     <td></td>
@@ -150,6 +174,12 @@ If you are new, like me, in this brave new world, so welcome!
     <td> </td>
     <td> FileUpload </td>
     <td> ful </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> FontDialog </td>
+    <td> ftd </td>
     <td> </td>
 </tr>
 <tr>
@@ -184,6 +214,12 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
+    <td> HelpProvider </td>
+    <td> hlp </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
     <td> HiddenField </td>
     <td> hf </td>
     <td> </td>
@@ -203,7 +239,7 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> ImageList </td>
-    <td> il </td>
+    <td> il / ils </td>
     <td> </td>
 </tr>
 <tr>
@@ -268,6 +304,12 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
+    <td> Menu </td>
+    <td> mnu </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
     <td> MenuStrip </td>
     <td> ms </td>
     <td> </td>
@@ -275,7 +317,7 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> MonthCalendar </td>
-    <td> cdr </td>
+    <td> cdr / mcl </td>
     <td> </td>
 </tr>
 <tr>
@@ -287,7 +329,7 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> NotifyIcon </td>
-    <td> icn </td>
+    <td> icn / nti </td>
     <td> </td>
 </tr>
 <tr>
@@ -309,6 +351,12 @@ If you are new, like me, in this brave new world, so welcome!
     <td> </td>
 </tr>
 <tr>
+    <td> </td>
+    <td> OpenFileDialog </td>
+    <td> ofd </td>
+    <td> </td>
+</tr>
+<tr>
     <td> P </td>
     <td> </td>
     <td></td>
@@ -322,14 +370,44 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
+    <td> PageSetup Dialog </td>
+    <td> psd </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
     <td> Panel </td>
     <td> pnl </td>
     <td> </td>
 </tr>
 <tr>
     <td> </td>
-    <td> PictureBox </td>
-    <td> pic </td>
+    <td> PrintDialog </td>
+    <td> ptd </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> PrintDocument </td>
+    <td> prn </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> PrintPreviewDialog </td>
+    <td> ppd </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> PrintPreviewControl </td>
+    <td> ppc </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> ProgressBar </td>
+    <td> prg </td>
     <td> </td>
 </tr>
 <tr>
@@ -353,7 +431,7 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> RadioButton </td>
-    <td> rdo </td>
+    <td> rdo / rad </td>
     <td> </td>
 </tr>
 <tr>
@@ -389,13 +467,31 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> RichTextBox </td>
-    <td> rtx </td>
+    <td> rtx / rtf </td>
     <td> </td>
 </tr>
 <tr>
     <td> S </td>
     <td> </td>
     <td></td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> SaveFileDialog </td>
+    <td> sfd </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> Splitter </td>
+    <td> spt </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> StatusBar </td>
+    <td> sta </td>
     <td> </td>
 </tr>
 <tr>
@@ -419,7 +515,7 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> TabControl </td>
-    <td> tab </td>
+    <td> tab / tbc </td>
     <td> </td>
 </tr>
 <tr>
@@ -444,6 +540,12 @@ If you are new, like me, in this brave new world, so welcome!
     <td> </td>
     <td> Timer </td>
     <td> tmr </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> ToolBar </td>
+    <td> tlb </td>
     <td> </td>
 </tr>
 <tr>
@@ -484,8 +586,14 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
+    <td> TrackBar </td>
+    <td> trv </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
     <td> TreeView </td>
-    <td> tv/tvw </td>
+    <td> tv / tvw / tre </td>
     <td> </td>
 </tr>
 <tr>
@@ -539,6 +647,62 @@ If you are new, like me, in this brave new world, so welcome!
 
 
  
+</tbody>
+</table></div>
+
+<br>
+
+# Data
+
+<div class=""><table class="">
+<thead>
+  <tr>
+    <th> Name </th>
+    <th> Abbreviation </th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> DataSet </td>
+    <td> dts </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> DataView </td>
+    <td> dtv </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> OleDbDataAdapter </td>
+    <td> oda </td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td> OleDbConnection </td>
+    <td> ocn </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> OleDbCommand </td>
+    <td> ocm </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> SqlDataAdapter </td>
+    <td> sda </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> SqlConnection </td>
+    <td> scn </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> SqlCommand </td>
+    <td> scm </td>
+    <td></td>
+  </tr> 
 </tbody>
 </table></div>
 
