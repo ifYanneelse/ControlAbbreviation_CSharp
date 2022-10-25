@@ -34,6 +34,27 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
+    <td> BackgroundWorker </td>
+    <td> bgw </td>
+    <td> </td>
+  </tr>
+<tr>
+<tr>
+    <td> </td>
+    <td> BindingSource </td>
+    <td> bds </td>
+    <td> </td>
+  </tr>
+<tr>
+<tr>
+    <td> </td>
+    <td> BindingNavigator </td>
+    <td> bdn </td>
+    <td> </td>
+  </tr>
+<tr>
+<tr>
+    <td> </td>
     <td> Button </td>
     <td> btn </td>
     <td> </td>
@@ -53,13 +74,13 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> CheckBox </td>
-    <td> chk </td>
+    <td> chk / cb </td>
     <td> </td>
 </tr>
 <tr>
     <td> </td>
     <td> CheckBoxList </td>
-    <td> chklst </td>
+    <td> chklst / cbl </td>
     <td> </td>
 </tr>
 <tr>
@@ -106,8 +127,14 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
+    <td> ContextMenuStrip </td>
+    <td> cms </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
     <td> CrystalReportViewer </td>
-    <td> rptvew / rpt </td>
+    <td> rptvew / rpt / crv </td>
     <td> </td>
 </tr> 
 <tr>
@@ -125,19 +152,43 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> DataGridView </td>
-    <td> dgv </td>
+    <td> dgv / dtg </td>
     <td> </td>
 </tr>
 <tr>
     <td> </td>
     <td> DataList </td>
-    <td> dl </td>
+    <td> dl / dtl </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> DataSet </td>
+    <td> dts </td>
     <td> </td>
 </tr>
 <tr>
     <td> </td>
     <td> DateTimePicker </td>
     <td> dtp </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> DetailView </td>
+    <td> dtv </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> DirectoryEntry </td>
+    <td> dre </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> DirectorySearcher </td>
+    <td> drs </td>
     <td> </td>
 </tr>
 <tr>
@@ -165,9 +216,21 @@ If you are new, like me, in this brave new world, so welcome!
     <td> </td>
 </tr>
 <tr>
+    <td> </td>
+    <td> EventLog </td>
+    <td> evl </td>
+    <td> </td>
+</tr>
+<tr>
     <td> F </td>
     <td> </td>
     <td></td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> FileSystemWatcher </td>
+    <td> fsw </td>
     <td> </td>
 </tr>
 <tr>
@@ -178,14 +241,32 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
+    <td> FlowLayoutPanel </td>
+    <td> flp / fu </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> FolderBrowserDialog </td>
+    <td> fbd </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
     <td> FontDialog </td>
-    <td> ftd </td>
+    <td> ftd / fnd </td>
     <td> </td>
 </tr>
 <tr>
     <td> </td>
     <td> Form </td>
     <td> frm </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> FormView </td>
+    <td> fv </td>
     <td> </td>
 </tr>
 <tr>
@@ -221,7 +302,19 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> HiddenField </td>
-    <td> hf </td>
+    <td> hf / hdn </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> HScrollBar </td>
+    <td> hsc </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> Hyperlink </td>
+    <td> hlk </td>
     <td> </td>
 </tr>
 <tr>
@@ -233,13 +326,13 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> ImageButton </td>
-    <td> imgbtn </td>
+    <td> imgbtn / imb </td>
     <td> </td>
 </tr>
 <tr>
     <td> </td>
     <td> ImageList </td>
-    <td> il / ils </td>
+    <td> il / ils / img</td>
     <td> </td>
 </tr>
 <tr>
@@ -269,7 +362,7 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> LinkButton </td>
-    <td> lnkbtn </td>
+    <td> lnkbtn / lbtn </td>
     <td> </td>
 </tr>
 <tr>
@@ -311,13 +404,25 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> MenuStrip </td>
-    <td> ms </td>
+    <td> ms / mns </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> MessageQueue </td>
+    <td> msq </td>
     <td> </td>
 </tr>
 <tr>
     <td> </td>
     <td> MonthCalendar </td>
     <td> cdr / mcl </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> MultiView </td>
+    <td> mv </td>
     <td> </td>
 </tr>
 <tr>
@@ -370,7 +475,7 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
-    <td> PageSetup Dialog </td>
+    <td> PageSetupDialog </td>
     <td> psd </td>
     <td> </td>
 </tr>
@@ -382,14 +487,26 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
+    <td> PerformanceCounter </td>
+    <td> pfc </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> Placeholder </td>
+    <td> phd </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
     <td> PrintDialog </td>
-    <td> ptd </td>
+    <td> ptd / prd </td>
     <td> </td>
 </tr>
 <tr>
     <td> </td>
     <td> PrintDocument </td>
-    <td> prn </td>
+    <td> prn / pdc </td>
     <td> </td>
 </tr>
 <tr>
@@ -401,7 +518,13 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> PrintPreviewControl </td>
-    <td> ppc </td>
+    <td> ppc / prv </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> Process </td>
+    <td> prc </td>
     <td> </td>
 </tr>
 <tr>
@@ -412,7 +535,7 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
-    <td> ProgressBar </td>
+    <td> PropertyGrid </td>
     <td> prg </td>
     <td> </td>
 </tr>
@@ -437,7 +560,7 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> RadioButtonList </td>
-    <td> rdolst </td>
+    <td> rdolst / rdl </td>
     <td> </td>
 </tr>
 <tr>
@@ -455,7 +578,19 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> Repeater </td>
-    <td> rpt </td>
+    <td> rpt / rep </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> ReportDocument </td>
+    <td> rpd </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> ReportViewer </td>
+    <td> rpv </td>
     <td> </td>
 </tr>
 <tr>
@@ -484,8 +619,32 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
-    <td> Splitter </td>
+    <td> Select </td>
+    <td> sel </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> SerialPort </td>
     <td> spt </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> ServiceController </td>
+    <td> scl </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> Splitter </td>
+    <td> spt / spl </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> SplitContainer </td>
+    <td> spl </td>
     <td> </td>
 </tr>
 <tr>
@@ -503,7 +662,7 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> StatusStrip </td>
-    <td> ss </td>
+    <td> ss / ssr </td>
     <td> </td>
 </tr>
 <tr>
@@ -526,8 +685,20 @@ If you are new, like me, in this brave new world, so welcome!
 </tr>
 <tr>
     <td> </td>
+    <td> TableLayoutPanel </td>
+    <td> tlp </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
     <td> TabPage </td>
     <td> tp </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> TextArea </td>
+    <td> tarea </td>
     <td> </td>
 </tr>
 <tr>
@@ -551,13 +722,19 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> ToolStrip </td>
-    <td> ts </td>
+    <td> ts / tsr </td>
     <td> </td>
 </tr>
 <tr>
     <td> </td>
     <td> ToolStripButton </td>
     <td> tsbtn </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> ToolStripContainer </td>
+    <td> tsc </td>
     <td> </td>
 </tr>
 <tr>
@@ -587,7 +764,7 @@ If you are new, like me, in this brave new world, so welcome!
 <tr>
     <td> </td>
     <td> TrackBar </td>
-    <td> trv </td>
+    <td> trv / trb </td>
     <td> </td>
 </tr>
 <tr>
@@ -612,6 +789,12 @@ If you are new, like me, in this brave new world, so welcome!
     <td> </td>
     <td> ValidatorSummary </td>
     <td> vs </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> </td>
+    <td> VScrollBar </td>
+    <td> vsc </td>
     <td> </td>
 </tr>
 <tr>
