@@ -942,4 +942,10 @@ If you are new, like me, in this brave new world, so welcome!
 
 <br>
 
-This project is inspired by others:
+This project is inspired by others.
+
+#
+
+By Yanne
+
+📅 2022
