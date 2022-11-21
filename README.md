@@ -1,5 +1,6 @@
 # ControlAbbreviation_CSharp
-Abbreviations and Naming Conventions.
+Abbreviations and C# Naming Conventions for developing a .NET applications.
+<br>
 If you are new, like me, in this brave new world, so welcome!
 
 <br>
@@ -891,7 +892,7 @@ If you are new, like me, in this brave new world, so welcome!
 
 <br>
 
-#
+# Others
 
 <div class=""><table class="">
 <thead>
@@ -942,7 +943,11 @@ If you are new, like me, in this brave new world, so welcome!
 
 <br>
 
-This project is inspired by others.
+⚠ This project is inspired and started by others.
+<br>
+For studies:
+- https://www.c-sharpcorner.com/UploadFile/8a67c0/C-Sharp-coding-standards-and-naming-conventions/
+- https://samuelmg.wordpress.com/2008/11/11/boas-praticas-em-programacao-abreviando-objetos/
 
 #
 
